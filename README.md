@@ -40,3 +40,7 @@ AI-Email-Writer/
 ├── requirements.txt
 ├── .env                 
 └── README.md
+
+## Live Project
+
+Link: https://ai-email-generator-qzxxlz5kkb2kiappve9rrzx.streamlit.app/
